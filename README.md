@@ -1,6 +1,7 @@
 # 🖥 **Sistemas Operativos** - Trabajos Prácticos
-
+<p align="justify">
 Bienvenidos al repositorio de **Sistemas Operativos (TA043)**. Aquí encontrarás los trabajos prácticos realizados a lo largo de la materia, los cuales abarcan conceptos clave como la creación y gestión de procesos, planificación, y sistemas de archivos.
+</p>
 
 ---
 
