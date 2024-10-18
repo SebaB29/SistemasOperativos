@@ -29,7 +29,7 @@ El objetivo de este lab es familiarizarse con las llamadas al sistema <i>fork(2)
 ### 👨‍👩‍👧‍👦 **Equipo**
 | **Integrante**                     | **Github**                                 |
 |------------------------------------|--------------------------------------------|
-| Sebastián Brizuela                 | -                                          |
+| Sebastián Brizuela                 | [SebaB29](https://github.com/SebaB29)      |
 | Lucia Agha Zadeh Dehdeh            | [Lucia-azd](https://github.com/Lucia-azd)  |
 | Federico Solari                    | [fedesolari](https://github.com/fedesolari)|
 | Juan Sebastian Del Rio             | [S2JuanS2](https://github.com/S2JuanS2)    |
