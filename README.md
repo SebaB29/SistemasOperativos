@@ -58,3 +58,6 @@ JOS está diseñado para correr en la arquitectura Intel x86, y para poder ejecu
 En este trabajo implementaremos nuestro propio sistema de archivos (o filesystem) para Linux. El sistema de archivos utilizará el mecanismo de FUSE (Filesystem in USErspace) provisto por el kernel, que nos permitirá definir en modo usuario la implementación de un filesystem. Gracias a ello, el mismo tendrá la interfaz VFS y podrá ser accedido con las syscalls y programas habituales (read, open, ls, etc).
 La implementación del filesystem será enteramente en memoria: tanto archivos como directorios serán representados mediante estructuras que vivirán en memoria RAM. Por esta razón, buscamos un sistema de archivos que apunte a la velocidad de acceso, y no al volumen de datos o a la persistencia (algo similar a tmpfs). Aún así, los datos de nuestro filesystem estarán representados en disco por un archivo.
 </p>
+
+## 📄 Licencia  
+Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo [LICENSE](./LICENSE).
